@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "type":"check",
+        "title":"Bước 1 Xác định nhu cầu khách hàng",
+        "content":"Vũ Văn Hoàng sắp đến hạn lúc 01/08/2020 9:00",
+        "time": "20/08/2020,06:00"
+    },
+    {
+        "id":"2",
+        "type":"user",
+        "title":"Bạn có khách hàng mới!",
+        "content":"Chúc mừng bạn, bạn có khách hàng mới. Hãy may chóng liên lạc ngay.",
+        "time": "20/08/2020,06:00"
+    },
+    {
+        "id":"3",
+        "type":"user",
+        "title":"Khách hàng được chia sẻ bị trùng",
+        "content":"Rất tiếc, khách hàng được chia sẻ đã tồn tại trên hệ thống. Vui lòng chia sẻ khách hàng.",
+        "time": "20/08/2020,06:00"
+    },
+    {
+        "id":"4",
+        "type":"user",
+        "title":"Khách hàng được thêm bị trùng",
+        "content":"Rất tiếc, khách hàng được thêm đã tồn tại trên hệ thống. Vui lòng thêm khách hàng.",
+        "time": "20/08/2020,06:00"
+    },
+    {
+        "id":"5",
+        "type":"check",
+        "title":"Công việc sắp đến hạn trong hôm nay",
+        "content":"Bạn có 17 công việc sắp đến hạn trong hôm nay.",
+        "time": "20/08/2020,06:00"
+    },
+    {
+        "id":"6",
+        "type":"check",
+        "title":"Công việc đã quá hạn",
+        "content":"Bạn có 17 công việc bị quá hạn. Hãy kiểm tra và lên kế hoạch hoàn thành công việc.",
+        "time": "20/08/2020,06:00"
+    }
+]
